@@ -10,10 +10,10 @@ Applying practical data analysis process to communicate data insights
 **2.**
  In the second part, I will take the main findings from the exploration phase and convey them to others through an explanatory analysis. Finally, I will communicate the results through a slide deck that leverages polished, explanatory visualizations in a story telling manner. This part of the project makes heavy use of the first part of the project.
 
-# Project Walkthrough
+## Project Walkthrough
 
-## Ford goBike Dataset Exploration
-### by Mohamed Eldemerdash
+### Ford goBike Dataset Exploration
+#### by Mohamed Eldemerdash
 
 
 
