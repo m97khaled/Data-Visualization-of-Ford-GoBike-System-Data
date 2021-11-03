@@ -21,6 +21,7 @@ Applying practical data analysis process to communicate data insights
 ### Dataset
 
 > The dataset I chose is the Ford goBike dataset. 
+> 
 You can download the dataset and the cleaned dataset from the google drive link below:
 https://drive.google.com/drive/folders/1GGrgFbJpxpbDF5InElbD1WLKqTxTaX9A?usp=sharing 
 
