@@ -1,6 +1,7 @@
 # Data-Visualization-of-Ford-GoBike-System-Data
 Applying practical data analysis process to communicate data insights
 
+## Project Overview
 **This project is divided into two major parts.**
 
 **1.**
