@@ -20,7 +20,9 @@ Applying practical data analysis process to communicate data insights
 
 ### Dataset
 
-> The dataset I chose is the Ford goBike dataset.
+> The dataset I chose is the Ford goBike dataset. 
+You can download the dataset and the cleaned dataset from the google drive link below:
+https://drive.google.com/drive/folders/1GGrgFbJpxpbDF5InElbD1WLKqTxTaX9A?usp=sharing 
 
 * Ford GoBike is a public bicycle sharing system. In 2013 the bike sharing service was introduced to the Bay Area in San Fransisco. Currently, the company is looking forward to provide more than 7000 bikes in the bay region.
 
